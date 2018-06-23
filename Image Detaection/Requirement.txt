@@ -1,1 +1,17 @@
+openCV=3
+Haarcascade_frontalface_default==to detect face
+haarcascade_eye==to detect face
+python3
+
+
+note: how to run
+1.
+for linux
+go to specified folder using cd command then run
+python3 FaceEyeDetect.py
+
+2.
+for Anaconda spyder user
+select and run-
+FaceEyeDetect
 
